@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LifeCycle">
         <activity
-            android:name=".DialogAcitivty"
+            android:name=".DialogActivity"
             android:theme="@android:style/Theme.Dialog"
             android:exported="false" />
         <activity
